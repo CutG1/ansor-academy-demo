@@ -10,10 +10,10 @@
         <li class="nav-links"><a href="#">Page</a></li>
         <li class="nav-links"><a href="#">Blog</a></li>
         <li class="nav-links"><a href="#">Contact</a></li>
-        <li>
-          <button class="bf">Sign In</button><br>
+        <!-- <li> -->
+          <li class="nav-links"><a href="#">Sign In</a></li><br>
           <button class="bs">Sign Up</button>
-        </li>
+        <!-- </li> -->
       </ul>
       <div class="menu">
         <label for="chk1">
